@@ -1,8 +1,9 @@
 # Hayson Ko
 
-I use GitHub as a scratchpad for AI eval notes, coding-agent tests, and small implementation experiments.
+I use GitHub to make my AI evaluation thinking more concrete through small prototypes, rubric experiments, coding-agent tests, and notes on model behavior, product quality, and regression risk
 
-Current interests include AI behavior review, product-specific eval design, regression checks, rubric calibration, and coding-agent workflows.
+Current interests include product-specific eval design, AI behavior review, rubric calibration, model-readiness workflows, coding-agent failure modes, and lightweight tools that turn ambiguous AI behavior into clearer product decisions
+
 
 Work history: https://linkedin.com/in/haysonko
 
